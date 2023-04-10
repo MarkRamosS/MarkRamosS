@@ -4,9 +4,10 @@
 
 * 🔭 I’m currently working on my Master Thesis and completing my studies at [Electrical and Computer Engineer @NTUA](http://www.ece.ntua.gr/en)
 * 🌍  Based in [Athens, Greece](https://en.wikipedia.org/wiki/Athens), but looking for a change.
-* 💻 I'm profficient in AI, backend and Databases. 
-* 📖 Currently looking for an AI position somewhere.
-* ❤️ My heart beats for learning and creating new things.
+* 💻 I know lots of stuff about AI, backend and Databases. 
+* 📖 Currently looking for an AI developer/researcher position somewhere.
+* ❤️ I love learning and creating new things.
+* 🌱 In my spare time I like to participate in AI competitions on Kaggle or create competitive bots on [codingame](https://www.codingame.com/profile/39e9ebbc2837b8b4c22a90aef2dc9eba4719993)
 - 📫 Feel free to contact me via any of my socials or my email: [mrs692316@gmail.com](mailto:mrs692316@gmail.com)
 
 
